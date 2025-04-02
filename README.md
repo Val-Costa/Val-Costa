@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Val Costa 😁
+## Bem-vindo(a) ao meu perfil! 😁
 
  <div>
    <a href="https://github.com/Val-Costa">
